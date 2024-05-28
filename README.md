@@ -1,8 +1,7 @@
-# AccentLingua
-
+# <header style="color:purple">AccentLingua</header>
 [![AccentLingua Logo](https://assets-global.website-files.com/5fac161927bf86485ba43fd0/6229d40f625c70840c12bcd7_BlogGif_2.gif)](https://accentlingua.streamlit.app/)
 
-AccentLingua is a web application designed for audio transcription and translation. Users can upload or record audio, transcribe it, and translate the transcribed text into multiple languages with various accents. It also includes account management features using Firebase Authentication.
+<span style="color:purple">AccentLingua</span> is a web application designed for audio transcription and translation. Users can upload or record audio, transcribe it, and translate the transcribed text into multiple languages with various accents. It also includes account management features using Firebase Authentication.
 
 ## Features
 
